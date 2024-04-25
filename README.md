@@ -2,11 +2,11 @@
   <br>
   <a href="https://legit1337x.github.io/"><img src="https://i.imgur.com/tCGSEE6.gif" alt="ZEUS ARCHIVE" width="200"></a>
   <br>
-  RootSec Archive
+  Zeus Archive
   <br>
 </h1>
 
-<h4 align="center">DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers).</h4>
+<h4 align="center">DDOS Archive by LEGIT1337x (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers).</h4>
 <p align="center">  <a href="https://t.me/zeusleaks1336"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 <br>
