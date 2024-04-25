@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://legit1337x.github.io/"><img src="https://i.imgur.com/tCGSEE6.gif" alt="ROOTSEC ARCHIVE" width="200"></a>
+  <a href="https://legit1337x.github.io/"><img src="https://i.imgur.com/tCGSEE6.gif" alt="ZEUS ARCHIVE" width="200"></a>
   <br>
   RootSec Archive
   <br>
@@ -8,7 +8,6 @@
 
 <h4 align="center">DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers).</h4>
 <p align="center">  <a href="https://t.me/zeusleaks1336"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-<p align="center">SEND HERE MONEY:<br>
 
 <br>
 BETTER TO SEND ME INSTEAD YOU WOULD PAY FOR THIS 200$+ PER FILE :)
@@ -42,7 +41,7 @@ ALL TUTORIALS THAT U WILL NEED U CAN FIND IN HOW TO USE FOLDER OR FOLDER OF THAT
 ## CREDITS
 [@R00tS3c](https://github.com/R00tS3c)
 <br>
-[@Nexus](https://github.com/Nexuzzzz)
+[@l33t1](https://github.com/l33t1)
 
 ## License
 
